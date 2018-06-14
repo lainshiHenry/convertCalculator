@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+
+#container {
+   margin: auto;
+   padding: auto;
+   border: 1px solid red;
+   width: device-width;
+   max-width: 650px;
+}
